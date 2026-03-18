@@ -5,7 +5,7 @@ let x;
 let y;
 
 function preload(){
-  cat = loadImage('Images/cat.jpg');
+  cat = loadImage('images/cat.jpg');
  // dog = loadImage('images/dog.jpg');
 }
 
